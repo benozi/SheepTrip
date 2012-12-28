@@ -1,6 +1,6 @@
 
 public class Parameters {
 
-	static final String author = "Benjamin COSSE";
+	static final String author = "Benozi";
 
 }
